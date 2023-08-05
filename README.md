@@ -1,16 +1,22 @@
-### Hi there 👋
+## 你好，我是懵懂
 
-<!--
-**mengdong123/mengdong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！我是一名对云原生技术充满热情的学习者。
 
-Here are some ideas to get you started:
+### 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 目前正在学习云原生的方向，包括容器化、微服务架构、持续集成和部署等。
+- 💻 我热衷于探索和学习新技术，并将其应用于实际项目中。
+- 🌐 我对云计算和分布式系统有着浓厚的兴趣，并致力于构建可扩展、高可用的应用和基础设施。
+- 🌱 我持续学习和提升自己的技能，包括使用云服务提供商（如 alicloud）的工具和服务。
+
+### 我的项目
+
+- ⚙️ 在我的 GitHub 仓库中，您可以在我的 star 中找到我目前正在关注的一些项目，当然，如果你有好的 idea 也可以邀请我一起 coding。
+- 📚 我也会分享一些学习笔记和教程，希望能够帮助其他人更好地理解云原生概念和实践，当然，也不局限于云原生，技术没有明确的边界性。
+
+### 联系我
+
+- 📫 您可以通过电子邮件 [510195171@qq.com] 与我取得联系。
+- 🔗 欢迎访问我的个人网站 [yuque.com/mungdong] 了解更多关于我的信息。
+
+感谢您访问我的 GitHub 主页，我期待与您分享和交流关于云原生技术的知识和经验！
